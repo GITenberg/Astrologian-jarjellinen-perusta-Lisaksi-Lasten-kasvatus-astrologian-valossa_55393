@@ -1,5 +1,8 @@
 _repo: Astrologian-jarjellinen-perusta-Lisaksi-Lasten-kasvatus-astrologian-valossa_55393
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Barley, Alfred H.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '48315'
     url: http://www.gutenberg.org/2009/agents/48315
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55393#Astrologian-jarjellinen-perusta-Lisaksi-Lasten-kasvatus-astrologian-valossa
 gutenberg_issued: '2017-08-20'
 gutenberg_type: Text
 identifiers:
